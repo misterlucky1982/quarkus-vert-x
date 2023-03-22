@@ -1,0 +1,5 @@
+= Quarkus Vert.x example
+
+----
+how to run it:
+$ mvn install quarkus:dev
